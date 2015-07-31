@@ -43,4 +43,4 @@ AUTH_CONFIG = {
 }
 
 # XSRF Settings
-XSRF_KEY = 'Cooplas3#'
+XSRF_KEY = 
